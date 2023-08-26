@@ -91,6 +91,43 @@ Flow Diagram
 See the visual representation of the flow in the diagram below:
 
 Flow Diagram
+
+           +------------------------+
+           |                        |
+           |      Add New Todo      |
+           |                        |
+           +-----------+------------+
+                       |
+                       v
+           +------------------------+
+           |                        |
+           |       Todo Column      |
+           |                        |
+           +-----------+------------+
+                       |
+                       v
+           +------------------------+
+           |                        |
+           |    Drag and Drop to    |
+           |     Doing or Done      |
+           |                        |
+           +-----------+------------+
+                       |
+                       v
+           +------------------------+
+           |                        |
+           |    Edit or Delete      |
+           |       Todo Task        |
+           |                        |
+           +-----------+------------+
+                       |
+                       v
+           +------------------------+
+           |                        |
+           |  Task Updated/Deleted  |
+           |                        |
+           +------------------------+
+
 <!-- SCREENSHOTS -->
 Screenshots
 
