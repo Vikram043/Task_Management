@@ -7,7 +7,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://todo-app-dusky-rho.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/yourusername/your-repo">Report Bug</a>
     ·
@@ -86,7 +86,6 @@ Features
     Delete tasks
 
 <!-- FLOW DIAGRAM -->
-Flow Diagram
 
 See the visual representation of the flow in the diagram below:
 
@@ -130,8 +129,19 @@ Flow Diagram
 
 <!-- SCREENSHOTS -->
 Screenshots
+## Home page
+![homepage](https://github.com/Vikram043/Task_Management/assets/119391188/32c2185e-34d6-4de9-85c9-735cd705259a)
+</br>
+## Drag and Drop
+![Drag](https://github.com/Vikram043/Task_Management/assets/119391188/46a5c363-ae21-46de-a779-3c9f3d702c16)
+</br>
+## Add task
+![Add](https://github.com/Vikram043/Task_Management/assets/119391188/cb1aba5e-8ed3-43b6-a5c3-616bd8e908fc)
+</br>
+## Edit task
+![Edit](https://github.com/Vikram043/Task_Management/assets/119391188/6d5042ee-33b9-4711-804c-ce85b7d3d6dc)
 
-Coming Soon
+</br>
 <!-- CONTRIBUTING -->
 Contributing
 
@@ -150,11 +160,7 @@ Distributed under the MIT License. See LICENSE for more information.
 <!-- CONTACT -->
 Contact
 
-Vikram - vikram@example.com
+Vikram - knowme962@gmail.com
 
-Project Link: https://github.com/yourusername/your-repo
+Project Link: https://github.com/vikram043/Task_Management
 
-vbnet
-
-
-This template incorporates some design elements and formatting commonly seen in high-quality GitHub readme files. You can customize it further to match your project's specifics and add images, as well as more detailed sections if needed. Make sure to replace placeholders like `yourusername`, `your-repo`, and `vikram@example.com` with your actual information.
